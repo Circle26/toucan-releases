@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Toucan</title>
+        <item>
+            <title>0.6.0-test.601</title>
+            <pubDate>Wed, 07 Oct 2026 14:01:45 +0100</pubDate>
+            <sparkle:version>601</sparkle:version>
+            <sparkle:shortVersionString>0.6.0-test.601</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Toucan test release</h2>
+<ul><li>A test release to check that updates work. Nothing else has changed.</li></ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/test-601/Toucan-0.6.0-test.601.zip" length="5139108" type="application/octet-stream" sparkle:edSignature="dn81UByXD/nyG+c07CJvzuNGmgm4yCVIBkSnzyy3i4VsVCbyApv4xOdvWJP6/hjZdQt2THZJ0sGgPCetx+tGAg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: rNulgd0Ztq3az5ANJ7oCFIr8YRsSFclR/gs0BjNv2oxe7Dk8Llr/N1CMEXMxCLGubhZRHzvyGeZe8oX7X+QECg==
+length: 1322
+-->
