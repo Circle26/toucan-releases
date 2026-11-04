@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Wed, 04 Nov 2026 19:26:22 +0000</pubDate>
+            <sparkle:version>603</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.2</h2>
+<ul>
+<li>A simpler Settings sidebar: the search box is gone (click the list and type a project’s code to jump to it), and Recording &amp; transcription is now called Recording.</li>
+<li>Help is now part of Settings › About, with the setup guide and the help pages above updates and what’s new.</li>
+<li>Archived projects open from the archive button beside New project at the top of the sidebar, so the sidebar lists your live projects only.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.2/Toucan-1.0.2.zip" length="20229673" type="application/octet-stream" sparkle:edSignature="0o4e3cb8DNkEzmPPAaMHL+oxunEvBV/xcEpyDXhlcrHSu+1iN1puzrrz0NUXAieL/ypJ4CIJOOi11WAUANeYAQ=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Wed, 04 Nov 2026 17:20:21 +0000</pubDate>
             <sparkle:version>602</sparkle:version>
@@ -41,6 +56,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 3Q+9Z4C8152+YfwVkYMuzpts4Zm02qQc8Jp5YWCeXjKAzeym5J4DmcMGnngnABWv0uYNcE8tgRYsGU2XDfm2BA==
-length: 3536
+edSignature: pOViABnvlBTc6nKYIHNvHN/KGBQHmwDTv9cI3AEnYC5H6tge05PQGyM8krjGJDu7puX6IOKdxbFua8+PhUA4AA==
+length: 4678
 -->
