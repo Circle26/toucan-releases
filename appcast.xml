@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Toucan</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 04 Nov 2026 15:54:16 +0000</pubDate>
+            <sparkle:version>601</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.0</h2>
+<p>The first version of Toucan for everyone at Circle 26. It now comes signed by Circle 26 and checked by Apple, and it keeps itself up to date.</p>
+<ul>
+<li>Updates: once a day Toucan checks for a newer version and asks before installing it. To check straight away, choose Check for Updates… from the Toucan menu bar icon. To stop the daily check, or to read what’s new in each version, go to Settings › About. When it checks, Toucan sends only its version number.</li>
+<li>Team: projects are shared through Circle 26’s Microsoft 365. Sign in with your Circle 26 account on Settings › Team; an admin adds you and chooses your projects. The same name gets the same token on every Mac.</li>
+<li>Clients folder: choose your Clients folder once and Toucan finds each team project’s folders inside it.</li>
+<li>Drop bar: drag files onto the bar to put them in the active project’s Originals. While you record, it shows live captions.</li>
+<li>Reveal: hold ⌥ and point at a token to see who it stands for, in a small panel of Toucan’s own. Nothing is copied or changed. Switch it on in Settings › Reveal.</li>
+<li>Activity: To Do lists what needs you, such as files held for checking, files blocked in Originals and folders Toucan can’t find. The Feed shows what happened, by project.</li>
+<li>Setup guide: a short guide takes you through signing in, your Clients folder, Touch ID and connecting Claude. You can open it again from Settings › Help.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.0/Toucan-1.0.0.zip" length="20211138" type="application/octet-stream" sparkle:edSignature="VymUq7R5v6Vl/Lt0DQRotI+OxwDygCHXLmDlIDeGdxv/WDmVK33xNYsrn+9qqlx3Rzv9TSbia9R71GgoVJPPCg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: fXSY1QMvI3i7Z/lwOHCeK6oTVQfOWOkzgU3TgmC9vBcg1OHrzNbhUudMR1c+0QsR/T1lrqTz00QygLX5iD7oCw==
+length: 2599
+-->
