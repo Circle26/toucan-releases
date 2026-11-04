@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Wed, 04 Nov 2026 21:22:34 +0000</pubDate>
+            <sparkle:version>604</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.3</h2>
+<ul>
+<li>Shorter Settings pages: rows that only explained how something works are gone, described instead in a new help page, What Toucan always does, in Settings › About.</li>
+<li>The Drop bar shows only the padlock and Toucan’s icon until you point at it, so a client’s name isn’t on screen when you share it. Dragging a file near it still shows which project it goes to.</li>
+<li>The Drop bar now follows the theme in Settings › General, and projects always show by name and code.</li>
+<li>File formats are now in Settings › Global rules, with their switches under Edit…. Long lists there show five at a time.</li>
+<li>The Paste and Tokenise window is gone. Option-Shift-A and Option-Shift-R still tokenise and restore the clipboard.</li>
+<li>Team members: an admin shows as on every project, and a single Mac on one line.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.3/Toucan-1.0.3.zip" length="20146900" type="application/octet-stream" sparkle:edSignature="kTpccU4OGSLsU0okLki34YhQuhGD8oJW2XV+LlG8M+VBVjt3GKl7R9cidGgZZgKso4bsmBzBZZNB8Ln1avjBDw=="/>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Wed, 04 Nov 2026 19:26:22 +0000</pubDate>
             <sparkle:version>603</sparkle:version>
@@ -33,29 +51,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.1/Toucan-1.0.1.zip" length="20240359" type="application/octet-stream" sparkle:edSignature="B1hxALQZ+bjO78QKmKwK9pVSqRGtuebq6H+SV8Nyb2nya032xlMKdLFWQaGUjIT7ijWoaJTKwHJXSvfJLTb8Bw=="/>
         </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Wed, 04 Nov 2026 15:54:16 +0000</pubDate>
-            <sparkle:version>601</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.0</h2>
-<p>The first version of Toucan for everyone at Circle 26. It now comes signed by Circle 26 and checked by Apple, and it keeps itself up to date.</p>
-<ul>
-<li>Updates: once a day Toucan checks for a newer version and asks before installing it. To check straight away, choose Check for Updates… from the Toucan menu bar icon. To stop the daily check, or to read what’s new in each version, go to Settings › About. When it checks, Toucan sends only its version number.</li>
-<li>Team: projects are shared through Circle 26’s Microsoft 365. Sign in with your Circle 26 account on Settings › Team; an admin adds you and chooses your projects. The same name gets the same token on every Mac.</li>
-<li>Clients folder: choose your Clients folder once and Toucan finds each team project’s folders inside it.</li>
-<li>Drop bar: drag files onto the bar to put them in the active project’s Originals. While you record, it shows live captions.</li>
-<li>Reveal: hold ⌥ and point at a token to see who it stands for, in a small panel of Toucan’s own. Nothing is copied or changed. Switch it on in Settings › Reveal.</li>
-<li>Activity: To Do lists what needs you, such as files held for checking, files blocked in Originals and folders Toucan can’t find. The Feed shows what happened, by project.</li>
-<li>Setup guide: a short guide takes you through signing in, your Clients folder, Touch ID and connecting Claude. You can open it again from Settings › Help.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.0/Toucan-1.0.0.zip" length="20211138" type="application/octet-stream" sparkle:edSignature="VymUq7R5v6Vl/Lt0DQRotI+OxwDygCHXLmDlIDeGdxv/WDmVK33xNYsrn+9qqlx3Rzv9TSbia9R71GgoVJPPCg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: pOViABnvlBTc6nKYIHNvHN/KGBQHmwDTv9cI3AEnYC5H6tge05PQGyM8krjGJDu7puX6IOKdxbFua8+PhUA4AA==
-length: 4678
+edSignature: hltLSwiDpR+0VsI++Neyt+yV6khQjGtFMcL7lZ6/mwZKx5dq7FskxTDpjzWd3lCLpF+7L+f9kyxo52vME07sCw==
+length: 4051
 -->
