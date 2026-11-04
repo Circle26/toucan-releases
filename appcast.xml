@@ -1,8 +1,23 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Toucan</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Wed, 04 Nov 2026 17:20:21 +0000</pubDate>
+            <sparkle:version>602</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.1</h2>
+<ul>
+<li>Fixes Toucan becoming slow after a Mac’s keys changed, as can happen when Toucan is set up again on the same Mac: an admin’s settings were saved again and again. Recover as the Team’s Admin… now appears on that Mac and puts it right.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.1/Toucan-1.0.1.zip" length="20240359" type="application/octet-stream" sparkle:edSignature="B1hxALQZ+bjO78QKmKwK9pVSqRGtuebq6H+SV8Nyb2nya032xlMKdLFWQaGUjIT7ijWoaJTKwHJXSvfJLTb8Bw=="/>
+        </item>
         <item>
             <title>1.0.0</title>
             <pubDate>Wed, 04 Nov 2026 15:54:16 +0000</pubDate>
@@ -21,10 +36,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 <li>Setup guide: a short guide takes you through signing in, your Clients folder, Touch ID and connecting Claude. You can open it again from Settings › Help.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.0/Toucan-1.0.0.zip" length="20211138" type="application/octet-stream" sparkle:edSignature="VymUq7R5v6Vl/Lt0DQRotI+OxwDygCHXLmDlIDeGdxv/WDmVK33xNYsrn+9qqlx3Rzv9TSbia9R71GgoVJPPCg=="></enclosure>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.0/Toucan-1.0.0.zip" length="20211138" type="application/octet-stream" sparkle:edSignature="VymUq7R5v6Vl/Lt0DQRotI+OxwDygCHXLmDlIDeGdxv/WDmVK33xNYsrn+9qqlx3Rzv9TSbia9R71GgoVJPPCg=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: fXSY1QMvI3i7Z/lwOHCeK6oTVQfOWOkzgU3TgmC9vBcg1OHrzNbhUudMR1c+0QsR/T1lrqTz00QygLX5iD7oCw==
-length: 2599
+</rss>
+<!-- sparkle-signatures:
+edSignature: 3Q+9Z4C8152+YfwVkYMuzpts4Zm02qQc8Jp5YWCeXjKAzeym5J4DmcMGnngnABWv0uYNcE8tgRYsGU2XDfm2BA==
+length: 3536
 -->
