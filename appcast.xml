@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.4</title>
+            <pubDate>Wed, 04 Nov 2026 22:22:13 +0000</pubDate>
+            <sparkle:version>605</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.4</h2>
+<ul>
+<li>Fewer Settings pages. Touch ID and Auto-lock are now in Settings › General, and Scans &amp; OCR is in Settings › Global rules, under File formats.</li>
+<li>Find &amp; replace and Reveal share one page, Settings › Swap &amp; reveal. Each keeps its own switch, and their permissions are listed together at the end.</li>
+<li>A shorter menu. Show Project in Finder is now Active Project Folders, with Recordings at the end. Find &amp; Replace, Drop Bar and Check for Updates… have left the menu: switch them on in Settings › Swap &amp; reveal, Settings › General and Settings › About.</li>
+<li>The Settings sidebar and the Drop bar show a project by its name alone. Point at a project in the sidebar to see its code. The menu still shows the name and code.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.4/Toucan-1.0.4.zip" length="20126256" type="application/octet-stream" sparkle:edSignature="udA7+6FXH3wz0yGsoCsd2eSru5qQ3kzIvOrSN8q0C66csFVZYYUsQ7/uVwS8lwWGk+497IxRilmOryerHjdUAQ=="/>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Wed, 04 Nov 2026 21:22:34 +0000</pubDate>
             <sparkle:version>604</sparkle:version>
@@ -38,22 +54,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.2/Toucan-1.0.2.zip" length="20229673" type="application/octet-stream" sparkle:edSignature="0o4e3cb8DNkEzmPPAaMHL+oxunEvBV/xcEpyDXhlcrHSu+1iN1puzrrz0NUXAieL/ypJ4CIJOOi11WAUANeYAQ=="/>
         </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Wed, 04 Nov 2026 17:20:21 +0000</pubDate>
-            <sparkle:version>602</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.1</h2>
-<ul>
-<li>Fixes Toucan becoming slow after a Mac’s keys changed, as can happen when Toucan is set up again on the same Mac: an admin’s settings were saved again and again. Recover as the Team’s Admin… now appears on that Mac and puts it right.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.1/Toucan-1.0.1.zip" length="20240359" type="application/octet-stream" sparkle:edSignature="B1hxALQZ+bjO78QKmKwK9pVSqRGtuebq6H+SV8Nyb2nya032xlMKdLFWQaGUjIT7ijWoaJTKwHJXSvfJLTb8Bw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: hltLSwiDpR+0VsI++Neyt+yV6khQjGtFMcL7lZ6/mwZKx5dq7FskxTDpjzWd3lCLpF+7L+f9kyxo52vME07sCw==
-length: 4051
+edSignature: tZBkkjOoEJRe8ml0/b49WG8C4u/je5rr3SeuBiAX2a5XnQIAReWuLBePwpvvSeKhb8LUZb8a0aCNNn7wmOTPDw==
+length: 4576
 -->
