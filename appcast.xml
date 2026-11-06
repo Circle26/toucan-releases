@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.5</title>
+            <pubDate>Fri, 06 Nov 2026 15:28:50 +0000</pubDate>
+            <sparkle:version>606</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.5</h2>
+<ul>
+<li>Toucan learns from your corrections. When you correct a transcript, each change is suggested as a correction to keep: for everyone (Global), for that client only, or Ignore. Nothing is saved until you choose, and Undo takes the last choice back.</li>
+<li>Each client has its own transcript corrections, for names the speech engine mishears. They’re applied with the global rules before a transcript is checked, and a name the client doesn’t know yet is added to Replace so it’s tokenised.</li>
+<li>Edit a transcript in Toucan. Click Transcript on a recording’s row, then Edit. Saving holds it for checking, and Check and Tokenise Again replaces its copy in Tokenised.</li>
+<li>A project’s page keeps its recordings together: Transcript corrections is now under Recordings, with the suggestions from your edits waiting at the top of the table. A change to what a rule wrote shows on that rule’s row, with Update.</li>
+<li>A team project’s People is now a button on its page, beside Rename, and the page says how many people are on it.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.5/Toucan-1.0.5.zip" length="20833112" type="application/octet-stream" sparkle:edSignature="BI9nPcKcvZ8q74AN53LthqwdQdVFAWeeqb0Sr370xMH/F+LgDOptURYB4ihC9gIF/auhxhShKaFepzasEEGHCA=="/>
+        </item>
+        <item>
             <title>1.0.4</title>
             <pubDate>Wed, 04 Nov 2026 22:22:13 +0000</pubDate>
             <sparkle:version>605</sparkle:version>
@@ -39,24 +56,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.3/Toucan-1.0.3.zip" length="20146900" type="application/octet-stream" sparkle:edSignature="kTpccU4OGSLsU0okLki34YhQuhGD8oJW2XV+LlG8M+VBVjt3GKl7R9cidGgZZgKso4bsmBzBZZNB8Ln1avjBDw=="/>
         </item>
-        <item>
-            <title>1.0.2</title>
-            <pubDate>Wed, 04 Nov 2026 19:26:22 +0000</pubDate>
-            <sparkle:version>603</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.2</h2>
-<ul>
-<li>A simpler Settings sidebar: the search box is gone (click the list and type a project’s code to jump to it), and Recording &amp; transcription is now called Recording.</li>
-<li>Help is now part of Settings › About, with the setup guide and the help pages above updates and what’s new.</li>
-<li>Archived projects open from the archive button beside New project at the top of the sidebar, so the sidebar lists your live projects only.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.2/Toucan-1.0.2.zip" length="20229673" type="application/octet-stream" sparkle:edSignature="0o4e3cb8DNkEzmPPAaMHL+oxunEvBV/xcEpyDXhlcrHSu+1iN1puzrrz0NUXAieL/ypJ4CIJOOi11WAUANeYAQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: tZBkkjOoEJRe8ml0/b49WG8C4u/je5rr3SeuBiAX2a5XnQIAReWuLBePwpvvSeKhb8LUZb8a0aCNNn7wmOTPDw==
-length: 4576
+edSignature: B+b7QATdCaSuIS0R6BuRA2sCfipSXCUL1CsSJ+uMfdqdKaxgp6gf41fiC9NE9Vin6QBuJ1RsrkthaZ/VI1DjBw==
+length: 5185
 -->
