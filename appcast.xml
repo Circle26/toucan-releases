@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.7</title>
+            <pubDate>Thu, 12 Nov 2026 14:23:18 +0000</pubDate>
+            <sparkle:version>608</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.7</h2>
+<ul>
+<li>Toucan’s window keeps everything on screen when it’s made narrow: Structure’s tables and the Entity Map shrink to fit, and the page can no longer be pushed off the edge by the sidebar.</li>
+<li>The sidebar stays between its narrowest and widest sizes, and can no longer be closed by dragging it too narrow.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.7/Toucan-1.0.7.zip" length="23454111" type="application/octet-stream" sparkle:edSignature="a1548rfqChXKmQ9YiKaiCerRegHDEBOTwV2IkYCbxOcehAJycxqd9gzR/N4WJIIEbH4KYyj6tqmt86G2JzXJDg=="/>
+        </item>
+        <item>
             <title>1.0.6</title>
             <pubDate>Thu, 12 Nov 2026 13:36:21 +0000</pubDate>
             <sparkle:version>607</sparkle:version>
@@ -43,25 +57,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.5/Toucan-1.0.5.zip" length="20833112" type="application/octet-stream" sparkle:edSignature="BI9nPcKcvZ8q74AN53LthqwdQdVFAWeeqb0Sr370xMH/F+LgDOptURYB4ihC9gIF/auhxhShKaFepzasEEGHCA=="/>
         </item>
-        <item>
-            <title>1.0.4</title>
-            <pubDate>Wed, 04 Nov 2026 22:22:13 +0000</pubDate>
-            <sparkle:version>605</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.4</h2>
-<ul>
-<li>Fewer Settings pages. Touch ID and Auto-lock are now in Settings › General, and Scans &amp; OCR is in Settings › Global rules, under File formats.</li>
-<li>Find &amp; replace and Reveal share one page, Settings › Swap &amp; reveal. Each keeps its own switch, and their permissions are listed together at the end.</li>
-<li>A shorter menu. Show Project in Finder is now Active Project Folders, with Recordings at the end. Find &amp; Replace, Drop Bar and Check for Updates… have left the menu: switch them on in Settings › Swap &amp; reveal, Settings › General and Settings › About.</li>
-<li>The Settings sidebar and the Drop bar show a project by its name alone. Point at a project in the sidebar to see its code. The menu still shows the name and code.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.4/Toucan-1.0.4.zip" length="20126256" type="application/octet-stream" sparkle:edSignature="udA7+6FXH3wz0yGsoCsd2eSru5qQ3kzIvOrSN8q0C66csFVZYYUsQ7/uVwS8lwWGk+497IxRilmOryerHjdUAQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 7vQwEFMMoTwQg4gRBKP76c5CyE0e0iu4XYRJ233LuxbZabZxEQWLQQEMrwbRll5knaVkYTtK4wBfQDkD0VMSDA==
-length: 6524
+edSignature: pULbI8L1MV1xFbLkq20NjUPwYJ3sd4FomOzKCzmR4c47iJdB7SSAcdSixVyruxS562ZkQ4FRxgN1mZUcDEaJDQ==
+length: 6070
 -->
