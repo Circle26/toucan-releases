@@ -6,6 +6,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.6</title>
+            <pubDate>Thu, 12 Nov 2026 13:36:21 +0000</pubDate>
+            <sparkle:version>607</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.6</h2>
+<p>Please update every Mac before anyone adds an email address, phone number, IBAN or NI number to Replace in its own category (see below). Earlier versions of Toucan can’t open a client that has one.</p>
+<ul>
+<li>Toucan works on one client at a time. Choose the client at the top of the sidebar: its pages are Overview, Structure and Recordings, and Toucan’s own pages (Settings, Activity, Global rules, Extensions, Team and About) are listed below them.</li>
+<li>Structure is the one page for every name Toucan replaces or keeps, in groups such as Family and Trusts and companies, with Keep at the end. Each row shows the name, how many aliases it has, its category, its role and links, and its token.</li>
+<li>Click a name on Structure to open its editor beside it. Change its category and aliases there, and give it a position or links to other names, such as “Owns 60% of Example Holdings Ltd”. Everything is saved as you make it, and Undo at the bottom of the page takes it back.</li>
+<li>The Entity Map, at the top of Structure, draws a client’s structure from those links: the family together at the top, and trusts, companies and what they own below. It redraws as you add links. Click a box to edit it there. It shows tokens until you switch to Real, and Issues lists holdings that add up to more than 100%.</li>
+<li>Export Map…, in the map’s ⋯ menu, saves it as a PDF in the firm’s style, a picture (PNG) or a drawing to edit (SVG), in the client’s Restored/Reports folder.</li>
+<li>An email address, phone number, bank account number (IBAN) or NI number that Global rules miss, such as one written out in words, can be added to Replace in the EMAIL, PHONE, IBAN or NI category, so its token says what it is. They are listed on Structure under Contact details and numbers, with the ones Global rules found.</li>
+<li>Transcript corrections on a client’s Recordings page has two tabs: Client, that client’s own rules, and Global, the rules for every client. The global list’s file and the Only when unsure setting are in Settings › Recording.</li>
+<li>Activity shows the client chosen in the sidebar, with changes for everyone marked Global.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.6/Toucan-1.0.6.zip" length="23447868" type="application/octet-stream" sparkle:edSignature="ezo9OdOSxNLOeC4RvbVHjHHTknhjd7NnZMuYwYVo+P3maU3oYNxYMMKOCzeKz8QP1mtyMDaOFQj/ENFPyfVICg=="/>
+        </item>
+        <item>
             <title>1.0.5</title>
             <pubDate>Fri, 06 Nov 2026 15:28:50 +0000</pubDate>
             <sparkle:version>606</sparkle:version>
@@ -38,27 +59,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.4/Toucan-1.0.4.zip" length="20126256" type="application/octet-stream" sparkle:edSignature="udA7+6FXH3wz0yGsoCsd2eSru5qQ3kzIvOrSN8q0C66csFVZYYUsQ7/uVwS8lwWGk+497IxRilmOryerHjdUAQ=="/>
         </item>
-        <item>
-            <title>1.0.3</title>
-            <pubDate>Wed, 04 Nov 2026 21:22:34 +0000</pubDate>
-            <sparkle:version>604</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.3</h2>
-<ul>
-<li>Shorter Settings pages: rows that only explained how something works are gone, described instead in a new help page, What Toucan always does, in Settings › About.</li>
-<li>The Drop bar shows only the padlock and Toucan’s icon until you point at it, so a client’s name isn’t on screen when you share it. Dragging a file near it still shows which project it goes to.</li>
-<li>The Drop bar now follows the theme in Settings › General, and projects always show by name and code.</li>
-<li>File formats are now in Settings › Global rules, with their switches under Edit…. Long lists there show five at a time.</li>
-<li>The Paste and Tokenise window is gone. Option-Shift-A and Option-Shift-R still tokenise and restore the clipboard.</li>
-<li>Team members: an admin shows as on every project, and a single Mac on one line.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.3/Toucan-1.0.3.zip" length="20146900" type="application/octet-stream" sparkle:edSignature="kTpccU4OGSLsU0okLki34YhQuhGD8oJW2XV+LlG8M+VBVjt3GKl7R9cidGgZZgKso4bsmBzBZZNB8Ln1avjBDw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: B+b7QATdCaSuIS0R6BuRA2sCfipSXCUL1CsSJ+uMfdqdKaxgp6gf41fiC9NE9Vin6QBuJ1RsrkthaZ/VI1DjBw==
-length: 5185
+edSignature: 7vQwEFMMoTwQg4gRBKP76c5CyE0e0iu4XYRJ233LuxbZabZxEQWLQQEMrwbRll5knaVkYTtK4wBfQDkD0VMSDA==
+length: 6524
 -->
