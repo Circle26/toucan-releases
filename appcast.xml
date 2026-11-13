@@ -6,6 +6,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.11</title>
+            <pubDate>Fri, 13 Nov 2026 15:17:26 +0000</pubDate>
+            <sparkle:version>612</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.11</h2>
+<ul>
+<li>On a client’s Structure page, clicking a name now opens its editor straight away even when you’ve scrolled down past the top of the list. Before, it could fail to open until you scrolled back up.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.11/Toucan-1.0.11.zip" length="23810342" type="application/octet-stream" sparkle:edSignature="iVxQIhg9cSUceunDbEon8+cNA8AHo4DXfSr1BawA4mh+kGcDAOJDzgf3Xe0fujNVDQ5DvBv8uOyI4vkFy/Y8Cw=="/>
+        </item>
+        <item>
             <title>1.0.10</title>
             <pubDate>Fri, 13 Nov 2026 14:24:47 +0000</pubDate>
             <sparkle:version>611</sparkle:version>
@@ -36,26 +49,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.9/Toucan-1.0.9.zip" length="23807393" type="application/octet-stream" sparkle:edSignature="HOY+nGxim5wHl4e3aujZgddcHkIdyPqRncDGWxT01qBUHAzwpHwlCDPYra4tGQrMuncDR8WzCeEhgTrbDF9dDw=="/>
         </item>
-        <item>
-            <title>1.0.8</title>
-            <pubDate>Fri, 13 Nov 2026 12:02:03 +0000</pubDate>
-            <sparkle:version>609</sparkle:version>
-            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.8</h2>
-<ul>
-<li>A client’s folders are found on your Mac even when your Clients folder is set at a different level from a colleague’s. When Toucan finds them, the client’s Folders card and To Do say “Folders found in your Clients folder”: click Review…, then Use These Folders. A notification tells you the first time.</li>
-<li>If a client’s folders aren’t there yet, the Folders card and To Do say why, for example that you haven’t been given access to the client’s folder in SharePoint, or that Toucan can’t find your Clients folder, with a button to put it right.</li>
-<li>Choosing a client’s folder by hand opens in your Clients folder and says which folder to pick. Toucan then offers the client’s other folders beside it.</li>
-<li>Admins: a new client’s folders are made in your Clients folder, a folder named after the client with 1. Internal to 5. Restored inside. Toucan uses 2. External Comms, 3. Tokenised and 5. Restored, and never reads 1. Internal or 4. Deliverables. A client without folders has Create Folders on its Folders card.</li>
-<li>Tip: add one shortcut in SharePoint to the folder that holds every client (Add shortcut to My files). Each client you’re given access to then appears in it, and Toucan connects its folders.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.8/Toucan-1.0.8.zip" length="23753409" type="application/octet-stream" sparkle:edSignature="NH+oqHs7ZOH0ooNckbvbUIugJICBE5sfloPY0+kkfT5PyYrefZ2EMjtgfflyMREV0PniRN6gMSmaJkVr8EV+Dg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: QaqauZ7q6m+ERLdAN2lMDaGKIXCNy741bX1x2A0lkEgAweD/5dA4SGNYKl3z0ke5DvYxzWPFcoUqSpQex+qoCg==
-length: 5528
+edSignature: KEI80FariYCE43NuomkMyPXlfHG9p1pXI6fqt0EEjKVWB4vaUcJjUUPcmWLDH8J64BNigeb+QrKRwtI8pweNDQ==
+length: 4473
 -->
