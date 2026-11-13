@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.10</title>
+            <pubDate>Fri, 13 Nov 2026 14:24:47 +0000</pubDate>
+            <sparkle:version>611</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.10</h2>
+<ul>
+<li>Adding a name from a client’s Structure page is quicker: type it in the search box, and if it isn’t there, choose Add… › Add to Replace… or Add to Keep…. The name you typed is already filled in.</li>
+<li>In Add to Replace, Toucan also picks a category from the name’s words (Ltd as ENTITY, Trust as TRUST, Bank as BANK) and suggests the usual ways it’s written as aliases, ready to tick. You can still change either before adding.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.10/Toucan-1.0.10.zip" length="23809485" type="application/octet-stream" sparkle:edSignature="fHly++a6fJKfFMKhhhL/1rNspnL6HYNm5sJanu+ah15LvenLyeZU+W177hc0llRYcraioygGsBCz2Ok0DuV5Cw=="/>
+        </item>
+        <item>
             <title>1.0.9</title>
             <pubDate>Fri, 13 Nov 2026 13:21:28 +0000</pubDate>
             <sparkle:version>610</sparkle:version>
@@ -39,23 +53,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.8/Toucan-1.0.8.zip" length="23753409" type="application/octet-stream" sparkle:edSignature="NH+oqHs7ZOH0ooNckbvbUIugJICBE5sfloPY0+kkfT5PyYrefZ2EMjtgfflyMREV0PniRN6gMSmaJkVr8EV+Dg=="/>
         </item>
-        <item>
-            <title>1.0.7</title>
-            <pubDate>Thu, 12 Nov 2026 14:23:18 +0000</pubDate>
-            <sparkle:version>608</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.7</h2>
-<ul>
-<li>Toucan’s window keeps everything on screen when it’s made narrow: Structure’s tables and the Entity Map shrink to fit, and the page can no longer be pushed off the edge by the sidebar.</li>
-<li>The sidebar stays between its narrowest and widest sizes, and can no longer be closed by dragging it too narrow.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.7/Toucan-1.0.7.zip" length="23454111" type="application/octet-stream" sparkle:edSignature="a1548rfqChXKmQ9YiKaiCerRegHDEBOTwV2IkYCbxOcehAJycxqd9gzR/N4WJIIEbH4KYyj6tqmt86G2JzXJDg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: DvnY8eEn3oF720e8LS6K2E2/f/rolUkhuDlahCB6wUlvB7ILey0o7Z9YA7dNj+4qdcbmNV3l6QPQbrYI53jbAw==
-length: 5389
+edSignature: QaqauZ7q6m+ERLdAN2lMDaGKIXCNy741bX1x2A0lkEgAweD/5dA4SGNYKl3z0ke5DvYxzWPFcoUqSpQex+qoCg==
+length: 5528
 -->
