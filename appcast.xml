@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.13</title>
+            <pubDate>Fri, 13 Nov 2026 18:23:08 +0000</pubDate>
+            <sparkle:version>614</sparkle:version>
+            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.13</h2>
+<ul>
+<li>You can now drag the Entity Map from anywhere on it, including over boxes, lines and the family box. A click on a box still opens it.</li>
+<li>A family member with no family link sits at the end of the family box’s top row, and lines leaving the family box no longer run under another person’s card.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.13/Toucan-1.0.13.zip" length="23893318" type="application/octet-stream" sparkle:edSignature="UZgHF7Aonys5oz4X9kFTeRMODTjKvwH6SPAMO71+29BupGivxkPCZo/HS/Ar4KbyRj4WW08q6Q4oORPb9zDWBw=="/>
+        </item>
+        <item>
             <title>1.0.12</title>
             <pubDate>Fri, 13 Nov 2026 17:28:50 +0000</pubDate>
             <sparkle:version>613</sparkle:version>
@@ -37,23 +51,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.11/Toucan-1.0.11.zip" length="23810342" type="application/octet-stream" sparkle:edSignature="iVxQIhg9cSUceunDbEon8+cNA8AHo4DXfSr1BawA4mh+kGcDAOJDzgf3Xe0fujNVDQ5DvBv8uOyI4vkFy/Y8Cw=="/>
         </item>
-        <item>
-            <title>1.0.10</title>
-            <pubDate>Fri, 13 Nov 2026 14:24:47 +0000</pubDate>
-            <sparkle:version>611</sparkle:version>
-            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.10</h2>
-<ul>
-<li>Adding a name from a client’s Structure page is quicker: type it in the search box, and if it isn’t there, choose Add… › Add to Replace… or Add to Keep…. The name you typed is already filled in.</li>
-<li>In Add to Replace, Toucan also picks a category from the name’s words (Ltd as ENTITY, Trust as TRUST, Bank as BANK) and suggests the usual ways it’s written as aliases, ready to tick. You can still change either before adding.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.10/Toucan-1.0.10.zip" length="23809485" type="application/octet-stream" sparkle:edSignature="fHly++a6fJKfFMKhhhL/1rNspnL6HYNm5sJanu+ah15LvenLyeZU+W177hc0llRYcraioygGsBCz2Ok0DuV5Cw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: kaOk46izSmJfqIlsBQRru16WR3BT+v58p8fRCqrgDIP+KNvQCZ364tn93wmsXamA+h3J6uCz63UrQUtuzzXfAA==
-length: 4449
+edSignature: WC1oO9tLsVpVGW07MDJts/jMbCmv8kQDvJ3M/xIO9XP4RiZScncyVYVnmhUM6JjVJWwfYpTmG8R208fzRrEdCQ==
+length: 4306
 -->
