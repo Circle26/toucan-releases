@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.8</title>
+            <pubDate>Fri, 13 Nov 2026 12:02:03 +0000</pubDate>
+            <sparkle:version>609</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.8</h2>
+<ul>
+<li>A client’s folders are found on your Mac even when your Clients folder is set at a different level from a colleague’s. When Toucan finds them, the client’s Folders card and To Do say “Folders found in your Clients folder”: click Review…, then Use These Folders. A notification tells you the first time.</li>
+<li>If a client’s folders aren’t there yet, the Folders card and To Do say why, for example that you haven’t been given access to the client’s folder in SharePoint, or that Toucan can’t find your Clients folder, with a button to put it right.</li>
+<li>Choosing a client’s folder by hand opens in your Clients folder and says which folder to pick. Toucan then offers the client’s other folders beside it.</li>
+<li>Admins: a new client’s folders are made in your Clients folder, a folder named after the client with 1. Internal to 5. Restored inside. Toucan uses 2. External Comms, 3. Tokenised and 5. Restored, and never reads 1. Internal or 4. Deliverables. A client without folders has Create Folders on its Folders card.</li>
+<li>Tip: add one shortcut in SharePoint to the folder that holds every client (Add shortcut to My files). Each client you’re given access to then appears in it, and Toucan connects its folders.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.8/Toucan-1.0.8.zip" length="23753409" type="application/octet-stream" sparkle:edSignature="NH+oqHs7ZOH0ooNckbvbUIugJICBE5sfloPY0+kkfT5PyYrefZ2EMjtgfflyMREV0PniRN6gMSmaJkVr8EV+Dg=="/>
+        </item>
+        <item>
             <title>1.0.7</title>
             <pubDate>Thu, 12 Nov 2026 14:23:18 +0000</pubDate>
             <sparkle:version>608</sparkle:version>
@@ -40,26 +57,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.6/Toucan-1.0.6.zip" length="23447868" type="application/octet-stream" sparkle:edSignature="ezo9OdOSxNLOeC4RvbVHjHHTknhjd7NnZMuYwYVo+P3maU3oYNxYMMKOCzeKz8QP1mtyMDaOFQj/ENFPyfVICg=="/>
         </item>
-        <item>
-            <title>1.0.5</title>
-            <pubDate>Fri, 06 Nov 2026 15:28:50 +0000</pubDate>
-            <sparkle:version>606</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.5</h2>
-<ul>
-<li>Toucan learns from your corrections. When you correct a transcript, each change is suggested as a correction to keep: for everyone (Global), for that client only, or Ignore. Nothing is saved until you choose, and Undo takes the last choice back.</li>
-<li>Each client has its own transcript corrections, for names the speech engine mishears. They’re applied with the global rules before a transcript is checked, and a name the client doesn’t know yet is added to Replace so it’s tokenised.</li>
-<li>Edit a transcript in Toucan. Click Transcript on a recording’s row, then Edit. Saving holds it for checking, and Check and Tokenise Again replaces its copy in Tokenised.</li>
-<li>A project’s page keeps its recordings together: Transcript corrections is now under Recordings, with the suggestions from your edits waiting at the top of the table. A change to what a rule wrote shows on that rule’s row, with Update.</li>
-<li>A team project’s People is now a button on its page, beside Rename, and the page says how many people are on it.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.5/Toucan-1.0.5.zip" length="20833112" type="application/octet-stream" sparkle:edSignature="BI9nPcKcvZ8q74AN53LthqwdQdVFAWeeqb0Sr370xMH/F+LgDOptURYB4ihC9gIF/auhxhShKaFepzasEEGHCA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: pULbI8L1MV1xFbLkq20NjUPwYJ3sd4FomOzKCzmR4c47iJdB7SSAcdSixVyruxS562ZkQ4FRxgN1mZUcDEaJDQ==
-length: 6070
+edSignature: 4LFy8KaFBTGd3T3n1N2oKuAEED5p3GZZnrHJGKI0RIXZPT3a42TdduMWQn6fc9udoMs7exSpkTwakKkz0PYjCw==
+length: 6282
 -->
