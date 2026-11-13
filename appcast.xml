@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.9</title>
+            <pubDate>Fri, 13 Nov 2026 13:21:28 +0000</pubDate>
+            <sparkle:version>610</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.9</h2>
+<ul>
+<li>Relationships on a client’s Structure page read as sentences: Jane Example is Parent of John Example, or Example Family Trust has Trustee Jane Example. Choose a role from the menu and Toucan adds the small word (of, to, for) itself. Adding a link reads the same way.</li>
+<li>Fewer relationship words to choose from, 14 instead of 22. Daughter of and Son of are now Child of, and a parent can now be added from the parent’s own entry too. Shareholder of, Partner in and Member of are now Owner, with a percentage as before. Relationship manager for and Investment manager for are now Adviser to. Portfolio for is now Account for.</li>
+<li>Links you’ve already added change to the new words by themselves, nothing is lost. Where two links to the same entry become one, their percentages are added together; if that comes to more than 100%, the link is kept at 100% and marked to confirm, so it shows under Issues.</li>
+<li>The Entity Map expands within Toucan’s window: click Expand on the map, or press ⇧⌘M, and it fills the page beside the sidebar. Click Collapse or press Esc to go back. The separate Entity Map window has gone.</li>
+<li>Long names on a relationship line are shortened with “…” so percentages always fit; point at a name to see it in full.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.9/Toucan-1.0.9.zip" length="23807393" type="application/octet-stream" sparkle:edSignature="HOY+nGxim5wHl4e3aujZgddcHkIdyPqRncDGWxT01qBUHAzwpHwlCDPYra4tGQrMuncDR8WzCeEhgTrbDF9dDw=="/>
+        </item>
+        <item>
             <title>1.0.8</title>
             <pubDate>Fri, 13 Nov 2026 12:02:03 +0000</pubDate>
             <sparkle:version>609</sparkle:version>
@@ -36,30 +53,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.7/Toucan-1.0.7.zip" length="23454111" type="application/octet-stream" sparkle:edSignature="a1548rfqChXKmQ9YiKaiCerRegHDEBOTwV2IkYCbxOcehAJycxqd9gzR/N4WJIIEbH4KYyj6tqmt86G2JzXJDg=="/>
         </item>
-        <item>
-            <title>1.0.6</title>
-            <pubDate>Thu, 12 Nov 2026 13:36:21 +0000</pubDate>
-            <sparkle:version>607</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.6</h2>
-<p>Please update every Mac before anyone adds an email address, phone number, IBAN or NI number to Replace in its own category (see below). Earlier versions of Toucan can’t open a client that has one.</p>
-<ul>
-<li>Toucan works on one client at a time. Choose the client at the top of the sidebar: its pages are Overview, Structure and Recordings, and Toucan’s own pages (Settings, Activity, Global rules, Extensions, Team and About) are listed below them.</li>
-<li>Structure is the one page for every name Toucan replaces or keeps, in groups such as Family and Trusts and companies, with Keep at the end. Each row shows the name, how many aliases it has, its category, its role and links, and its token.</li>
-<li>Click a name on Structure to open its editor beside it. Change its category and aliases there, and give it a position or links to other names, such as “Owns 60% of Example Holdings Ltd”. Everything is saved as you make it, and Undo at the bottom of the page takes it back.</li>
-<li>The Entity Map, at the top of Structure, draws a client’s structure from those links: the family together at the top, and trusts, companies and what they own below. It redraws as you add links. Click a box to edit it there. It shows tokens until you switch to Real, and Issues lists holdings that add up to more than 100%.</li>
-<li>Export Map…, in the map’s ⋯ menu, saves it as a PDF in the firm’s style, a picture (PNG) or a drawing to edit (SVG), in the client’s Restored/Reports folder.</li>
-<li>An email address, phone number, bank account number (IBAN) or NI number that Global rules miss, such as one written out in words, can be added to Replace in the EMAIL, PHONE, IBAN or NI category, so its token says what it is. They are listed on Structure under Contact details and numbers, with the ones Global rules found.</li>
-<li>Transcript corrections on a client’s Recordings page has two tabs: Client, that client’s own rules, and Global, the rules for every client. The global list’s file and the Only when unsure setting are in Settings › Recording.</li>
-<li>Activity shows the client chosen in the sidebar, with changes for everyone marked Global.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.6/Toucan-1.0.6.zip" length="23447868" type="application/octet-stream" sparkle:edSignature="ezo9OdOSxNLOeC4RvbVHjHHTknhjd7NnZMuYwYVo+P3maU3oYNxYMMKOCzeKz8QP1mtyMDaOFQj/ENFPyfVICg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 4LFy8KaFBTGd3T3n1N2oKuAEED5p3GZZnrHJGKI0RIXZPT3a42TdduMWQn6fc9udoMs7exSpkTwakKkz0PYjCw==
-length: 6282
+edSignature: DvnY8eEn3oF720e8LS6K2E2/f/rolUkhuDlahCB6wUlvB7ILey0o7Z9YA7dNj+4qdcbmNV3l6QPQbrYI53jbAw==
+length: 5389
 -->
