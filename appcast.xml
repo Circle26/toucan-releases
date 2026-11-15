@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.14</title>
+            <pubDate>Sun, 15 Nov 2026 17:16:05 +0000</pubDate>
+            <sparkle:version>615</sparkle:version>
+            <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.14</h2>
+<ul>
+<li>Add to OneDrive: on a team client’s Folders heading, To Do and Settings › Team. Click it, then Allow, and Toucan adds the firm’s clients’ folders to your OneDrive, sets your Clients folder and connects your clients by itself. Once it’s done, it shows OneDrive Connected.</li>
+<li>Settings › Team has one Folders card: the team’s files, with their sync status as a coloured dot, then your Clients folder on this Mac and in SharePoint.</li>
+<li>New clients’ folders are always made in your Clients folder, with no switch to choose.</li>
+<li>The Projects folder is now Claude’s folder, in Settings › Extensions under Claude Desktop, as it’s only used to tell Claude which files it may read.</li>
+<li>Recording’s switch is now at the top of each client’s Recordings page, with its settings at the bottom of that page.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.14/Toucan-1.0.14.zip" length="24054553" type="application/octet-stream" sparkle:edSignature="w8J2SppZ7/zzhil1D3RcptHAFwU9oQQtiGuEYpaaItpLPMD96c0aZpOxRVusgj+uGKa3CJ6JwiHjK/K6mCrbAA=="/>
+        </item>
+        <item>
             <title>1.0.13</title>
             <pubDate>Fri, 13 Nov 2026 18:23:08 +0000</pubDate>
             <sparkle:version>614</sparkle:version>
@@ -38,22 +55,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.12/Toucan-1.0.12.zip" length="23880513" type="application/octet-stream" sparkle:edSignature="mSJmb+FFFjbmavTqo9vq35hOXL4OSvf941pPBDxBg2FbdKNmNNowsqnCM7u0fecUySwEjaFOSBYzHKCXaXgkAw=="/>
         </item>
-        <item>
-            <title>1.0.11</title>
-            <pubDate>Fri, 13 Nov 2026 15:17:26 +0000</pubDate>
-            <sparkle:version>612</sparkle:version>
-            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.11</h2>
-<ul>
-<li>On a client’s Structure page, clicking a name now opens its editor straight away even when you’ve scrolled down past the top of the list. Before, it could fail to open until you scrolled back up.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.11/Toucan-1.0.11.zip" length="23810342" type="application/octet-stream" sparkle:edSignature="iVxQIhg9cSUceunDbEon8+cNA8AHo4DXfSr1BawA4mh+kGcDAOJDzgf3Xe0fujNVDQ5DvBv8uOyI4vkFy/Y8Cw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: WC1oO9tLsVpVGW07MDJts/jMbCmv8kQDvJ3M/xIO9XP4RiZScncyVYVnmhUM6JjVJWwfYpTmG8R208fzRrEdCQ==
-length: 4306
+edSignature: C1ox1KKK3KCmGYoG6++lDVWlc9Hw1IYLmF1K5yEfCUMevDbLAEumwQtlk8K8di27eqLLP4iiQJ3gBoeX8I8XAg==
+length: 4946
 -->
