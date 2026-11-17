@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.18</title>
+            <pubDate>Tue, 17 Nov 2026 22:55:58 +0000</pubDate>
+            <sparkle:version>619</sparkle:version>
+            <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.18</h2>
+<ul>
+<li>See where a name was found. In Seed, Check All and a file’s check, point at a value’s Found column to see the words around it, or click the magnifying glass beside it for every place it was found: the file, the sheet and cell, line, page or slide, the words around it with the name in bold, and Open to open the file. These are shown only in that window, never saved.</li>
+<li>Correct a value before adding it. If only part of a name was found, such as Asset Management for Smith Asset Management, click the value and type it in full before you choose Add.</li>
+<li>Seed opens straight away and lists names as it reads each file, with a Stop button. You can choose while it reads; Add is ready once it has finished.</li>
+<li>Checking again is much quicker. Scanned pdf files and images are read once while Toucan is unlocked, so Check Again only looks for names again. Locking Toucan forgets them.</li>
+<li>Seed and Scan All no longer make Toucan pause between files, and Add no longer waits while every file is counted again.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.18/Toucan-1.0.18.zip" length="26326792" type="application/octet-stream" sparkle:edSignature="2Do9G0/qzW6IazCGJFNVyfXil3bAq7XKd75an6+517oSteEmWbVlDOyIlUdeJK5JhczWYOB5A73J2Otoh0/SAw=="/>
+        </item>
+        <item>
             <title>1.0.17</title>
             <pubDate>Tue, 17 Nov 2026 18:30:01 +0000</pubDate>
             <sparkle:version>618</sparkle:version>
@@ -35,23 +52,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.16/Toucan-1.0.16.zip" length="25305244" type="application/octet-stream" sparkle:edSignature="j7C8X3sWEENfTeJ8ckOwYCYM8Wy9yIPNg1zqY2eOvKmVrzrr6GagL73DhvFsVRz8O4hW8bpMRnY8eNTN8j9vDg=="/>
         </item>
-        <item>
-            <title>1.0.15</title>
-            <pubDate>Mon, 16 Nov 2026 11:57:02 +0000</pubDate>
-            <sparkle:version>616</sparkle:version>
-            <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.15</h2>
-<ul>
-<li>Shared mailboxes can now include folders. Switch on Include folders in a client’s Mailbox settings, and new emails in every folder inside the Inbox are fetched too, such as those an Outlook rule files away.</li>
-<li>An email that’s already been fetched isn’t fetched again when someone moves it into a folder.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.15/Toucan-1.0.15.zip" length="24096857" type="application/octet-stream" sparkle:edSignature="z6qPnpsE16Le/fekST2THZbwmIljorgjhaQtYqrLmiGcaxxfzO0ikXT26LtrucVpM9H7xXESjMQC49t+UUFvAw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: HLbzp82XGHizlVj2ZEk/iGfK1Tc899lV4s6H35okHyP7KLI326syskwNkHkOKzi3WnCDlK/4NT2wu/MeGwXACw==
-length: 4206
+edSignature: YS6k0f02611mdfw3WLlLLWd0f49OSpQDoyoHgCi/8Ik6JaVKDuvreQ2ZDkLNcJSUOhkD7ISimQsbMq1RuUGfCQ==
+length: 4921
 -->
