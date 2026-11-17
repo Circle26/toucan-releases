@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.16</title>
+            <pubDate>Tue, 17 Nov 2026 13:08:32 +0000</pubDate>
+            <sparkle:version>617</sparkle:version>
+            <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.16</h2>
+<ul>
+<li>Play a recording from any paragraph. Open a transcript from its row in a client’s Recordings and click the play button beside a paragraph’s time: it plays from there and carries on, with pause and a bar to move through the recording.</li>
+<li>Choose which mailbox folders to read. In a client’s Mailbox settings, Include folders now offers Inbox only, Inbox and every folder, or Inbox and chosen folders, where Choose… lists the folders inside the Inbox to tick. A folder added later is pointed out, and isn’t read until you tick it.</li>
+<li>Update Toucan on every Mac before choosing folders for a shared client’s mailbox: an older version reads only its Inbox.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.16/Toucan-1.0.16.zip" length="25305244" type="application/octet-stream" sparkle:edSignature="j7C8X3sWEENfTeJ8ckOwYCYM8Wy9yIPNg1zqY2eOvKmVrzrr6GagL73DhvFsVRz8O4hW8bpMRnY8eNTN8j9vDg=="/>
+        </item>
+        <item>
             <title>1.0.15</title>
             <pubDate>Mon, 16 Nov 2026 11:57:02 +0000</pubDate>
             <sparkle:version>616</sparkle:version>
@@ -36,23 +51,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.14/Toucan-1.0.14.zip" length="24054553" type="application/octet-stream" sparkle:edSignature="w8J2SppZ7/zzhil1D3RcptHAFwU9oQQtiGuEYpaaItpLPMD96c0aZpOxRVusgj+uGKa3CJ6JwiHjK/K6mCrbAA=="/>
         </item>
-        <item>
-            <title>1.0.13</title>
-            <pubDate>Fri, 13 Nov 2026 18:23:08 +0000</pubDate>
-            <sparkle:version>614</sparkle:version>
-            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.13</h2>
-<ul>
-<li>You can now drag the Entity Map from anywhere on it, including over boxes, lines and the family box. A click on a box still opens it.</li>
-<li>A family member with no family link sits at the end of the family box’s top row, and lines leaving the family box no longer run under another person’s card.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.13/Toucan-1.0.13.zip" length="23893318" type="application/octet-stream" sparkle:edSignature="UZgHF7Aonys5oz4X9kFTeRMODTjKvwH6SPAMO71+29BupGivxkPCZo/HS/Ar4KbyRj4WW08q6Q4oORPb9zDWBw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: jAtSJylgLp9uXyLUiMV0/tFkBd5BatvGmaSZcKpdjc42rcIevJRWughBJ6Vwzt2dQMjoreo5fJo+Sm+Uc/KOBQ==
-length: 4014
+edSignature: 6Di0r2CSvzZbLCnHROxgQP4zku6/z822h2G414RDP97fp6YjXYg/tpzUXAHSTbyInXSlJw9Bf6tRNuM4RsklCg==
+length: 4386
 -->
