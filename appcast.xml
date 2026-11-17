@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.17</title>
+            <pubDate>Tue, 17 Nov 2026 18:30:01 +0000</pubDate>
+            <sparkle:version>618</sparkle:version>
+            <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.17</h2>
+<ul>
+<li>Names that are part of another are joined. When checking a file or transcript, a value that is part of another, such as Smith beside Smith Limited, sits under it in orange and starts as its alias, so both get one token. If Smith is someone else, choose Replace for it instead.</li>
+<li>Values going to Replace come first in the check, and the Aliases column says why a row has no suggestions: choose a category such as Person or Entity to see them.</li>
+<li>Adding a global correction from a transcript now starts on Only when unsure only if the speech engine was unsure of the words you selected, so a rule for clearly heard words changes them straight away.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.17/Toucan-1.0.17.zip" length="26117938" type="application/octet-stream" sparkle:edSignature="ago1LZ7YbUWkzhnxHO8U3fDHF6YlqMbPeD/fvJCCf1PboYAhvmQrUCd5yd9J8YSdYvO1UwPdxnstaVj53UXEDw=="/>
+        </item>
+        <item>
             <title>1.0.16</title>
             <pubDate>Tue, 17 Nov 2026 13:08:32 +0000</pubDate>
             <sparkle:version>617</sparkle:version>
@@ -34,26 +49,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.15/Toucan-1.0.15.zip" length="24096857" type="application/octet-stream" sparkle:edSignature="z6qPnpsE16Le/fekST2THZbwmIljorgjhaQtYqrLmiGcaxxfzO0ikXT26LtrucVpM9H7xXESjMQC49t+UUFvAw=="/>
         </item>
-        <item>
-            <title>1.0.14</title>
-            <pubDate>Sun, 15 Nov 2026 17:16:05 +0000</pubDate>
-            <sparkle:version>615</sparkle:version>
-            <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.14</h2>
-<ul>
-<li>Add to OneDrive: on a team client’s Folders heading, To Do and Settings › Team. Click it, then Allow, and Toucan adds the firm’s clients’ folders to your OneDrive, sets your Clients folder and connects your clients by itself. Once it’s done, it shows OneDrive Connected.</li>
-<li>Settings › Team has one Folders card: the team’s files, with their sync status as a coloured dot, then your Clients folder on this Mac and in SharePoint.</li>
-<li>New clients’ folders are always made in your Clients folder, with no switch to choose.</li>
-<li>The Projects folder is now Claude’s folder, in Settings › Extensions under Claude Desktop, as it’s only used to tell Claude which files it may read.</li>
-<li>Recording’s switch is now at the top of each client’s Recordings page, with its settings at the bottom of that page.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.14/Toucan-1.0.14.zip" length="24054553" type="application/octet-stream" sparkle:edSignature="w8J2SppZ7/zzhil1D3RcptHAFwU9oQQtiGuEYpaaItpLPMD96c0aZpOxRVusgj+uGKa3CJ6JwiHjK/K6mCrbAA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 6Di0r2CSvzZbLCnHROxgQP4zku6/z822h2G414RDP97fp6YjXYg/tpzUXAHSTbyInXSlJw9Bf6tRNuM4RsklCg==
-length: 4386
+edSignature: HLbzp82XGHizlVj2ZEk/iGfK1Tc899lV4s6H35okHyP7KLI326syskwNkHkOKzi3WnCDlK/4NT2wu/MeGwXACw==
+length: 4206
 -->
