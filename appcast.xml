@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.19</title>
+            <pubDate>Wed, 18 Nov 2026 09:27:05 +0000</pubDate>
+            <sparkle:version>620</sparkle:version>
+            <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.19</h2>
+<ul>
+<li>Explain… for emails. When the final check blocks an email, Explain… on its row in the client’s Originals list shows where each value was found (a header, the plain text or HTML, an attachment’s name), the words as written and the words around them. Select a row: if a change to your lists fixes it, a button makes the change, then choose Tokenise Again. If not, Copy Description copies where it is and how it’s written, never the words, to send to Rob Eades.</li>
+<li>Fewer emails blocked. A phone number Toucan already knows is now tokenised when it’s written as plain digits without its first 0, as Excel stores it. A file is also tokenised a second time when a number found partway through it appears earlier in another form, such as a Teams meeting’s conference ID.</li>
+<li>A name running straight into a longer Keep value, such as a person’s name before the firm’s name in a signature, is now tokenised. Keep only protects a value it covers in full.</li>
+<li>Clients whose Originals are in OneDrive are much quicker. Files OneDrive keeps online only are no longer downloaded just to update lists; the Originals list shows them as Online only, and Scan downloads and reads one.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.19/Toucan-1.0.19.zip" length="26582225" type="application/octet-stream" sparkle:edSignature="qsLC4AnVGdS1eF/lEbn+h+SKINwQKsoU3XON7/7Pk/GbOUs6kCoKZc/ICXWRHHyL0hSHqO2fUgLG4DBR8y4eAQ=="/>
+        </item>
+        <item>
             <title>1.0.18</title>
             <pubDate>Tue, 17 Nov 2026 22:55:58 +0000</pubDate>
             <sparkle:version>619</sparkle:version>
@@ -37,24 +53,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.17/Toucan-1.0.17.zip" length="26117938" type="application/octet-stream" sparkle:edSignature="ago1LZ7YbUWkzhnxHO8U3fDHF6YlqMbPeD/fvJCCf1PboYAhvmQrUCd5yd9J8YSdYvO1UwPdxnstaVj53UXEDw=="/>
         </item>
-        <item>
-            <title>1.0.16</title>
-            <pubDate>Tue, 17 Nov 2026 13:08:32 +0000</pubDate>
-            <sparkle:version>617</sparkle:version>
-            <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.16</h2>
-<ul>
-<li>Play a recording from any paragraph. Open a transcript from its row in a client’s Recordings and click the play button beside a paragraph’s time: it plays from there and carries on, with pause and a bar to move through the recording.</li>
-<li>Choose which mailbox folders to read. In a client’s Mailbox settings, Include folders now offers Inbox only, Inbox and every folder, or Inbox and chosen folders, where Choose… lists the folders inside the Inbox to tick. A folder added later is pointed out, and isn’t read until you tick it.</li>
-<li>Update Toucan on every Mac before choosing folders for a shared client’s mailbox: an older version reads only its Inbox.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.16/Toucan-1.0.16.zip" length="25305244" type="application/octet-stream" sparkle:edSignature="j7C8X3sWEENfTeJ8ckOwYCYM8Wy9yIPNg1zqY2eOvKmVrzrr6GagL73DhvFsVRz8O4hW8bpMRnY8eNTN8j9vDg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: YS6k0f02611mdfw3WLlLLWd0f49OSpQDoyoHgCi/8Ik6JaVKDuvreQ2ZDkLNcJSUOhkD7ISimQsbMq1RuUGfCQ==
-length: 4921
+edSignature: FQwEgtB4HrvdGp9L1E9s4nPVOGnIrh+0x/Rqr3mh6Lhv7U0H54zygBBZjAhI074nMJUiPQIwwGH3z+DC5/PoBA==
+length: 5446
 -->
