@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.20</title>
+            <pubDate>Wed, 18 Nov 2026 14:51:16 +0000</pubDate>
+            <sparkle:version>621</sparkle:version>
+            <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.20</h2>
+<ul>
+<li>Fewer emails blocked. Emails with pictures in the signature, such as a logo, were sometimes blocked by the final check because Toucan mistook part of a picture’s hidden name for a National Insurance number. Picture names are now left as they are.</li>
+<li>Explain… now also shows values the final check found only in an email’s source, so its list is never empty for a blocked email.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.20/Toucan-1.0.20.zip" length="26591293" type="application/octet-stream" sparkle:edSignature="glHoPSHCFto1T8/drtkZsiPSCUDnB6PBE7uqQVT9HMww9tqnwUNnBkb8xyVte2E7UJJiDqH+MqpWuJEn/BG2CQ=="/>
+        </item>
+        <item>
             <title>1.0.19</title>
             <pubDate>Wed, 18 Nov 2026 09:27:05 +0000</pubDate>
             <sparkle:version>620</sparkle:version>
@@ -38,24 +52,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.18/Toucan-1.0.18.zip" length="26326792" type="application/octet-stream" sparkle:edSignature="2Do9G0/qzW6IazCGJFNVyfXil3bAq7XKd75an6+517oSteEmWbVlDOyIlUdeJK5JhczWYOB5A73J2Otoh0/SAw=="/>
         </item>
-        <item>
-            <title>1.0.17</title>
-            <pubDate>Tue, 17 Nov 2026 18:30:01 +0000</pubDate>
-            <sparkle:version>618</sparkle:version>
-            <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.17</h2>
-<ul>
-<li>Names that are part of another are joined. When checking a file or transcript, a value that is part of another, such as Smith beside Smith Limited, sits under it in orange and starts as its alias, so both get one token. If Smith is someone else, choose Replace for it instead.</li>
-<li>Values going to Replace come first in the check, and the Aliases column says why a row has no suggestions: choose a category such as Person or Entity to see them.</li>
-<li>Adding a global correction from a transcript now starts on Only when unsure only if the speech engine was unsure of the words you selected, so a rule for clearly heard words changes them straight away.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.17/Toucan-1.0.17.zip" length="26117938" type="application/octet-stream" sparkle:edSignature="ago1LZ7YbUWkzhnxHO8U3fDHF6YlqMbPeD/fvJCCf1PboYAhvmQrUCd5yd9J8YSdYvO1UwPdxnstaVj53UXEDw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: FQwEgtB4HrvdGp9L1E9s4nPVOGnIrh+0x/Rqr3mh6Lhv7U0H54zygBBZjAhI074nMJUiPQIwwGH3z+DC5/PoBA==
-length: 5446
+edSignature: LH7jN9itlDcaNISVf57RT2KP+OZd+4uWDQsVzH8UV679tT9gGH+9KBmwOXy9M9lyHJSyOBCh2vSBoAqDKpgrCg==
+length: 5176
 -->
