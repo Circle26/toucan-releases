@@ -6,6 +6,28 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.21</title>
+            <pubDate>Fri, 20 Nov 2026 14:43:15 +0000</pubDate>
+            <sparkle:version>622</sparkle:version>
+            <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.21</h2>
+<ul>
+<li>A new Entity Map. On a client’s Structure page the map now shows their names in lanes from left to right: Family, People, Trusts and Companies, then Assets, Liabilities, Banks and Suppliers when the client has any, each lane always in the same order. Scroll sideways for more lanes, or widen the window. Zoom has gone.</li>
+<li>Click a name to see what it’s linked to: its lines are drawn and everything else fades. A blue marker at the side counts linked names out of view; click it to scroll there.</li>
+<li>Open a name with the arrow on its right to see and change it in place: its links (the word, a percentage, confirmed or still to confirm, change to another name, swap direction or delete), its category, aliases, position and note. Every change is saved at once, and Undo at the bottom of the page takes it back.</li>
+<li>Add on the map. + Add link in an open name links it to another as you type. The toolbar under the map adds a new name by kind, links two names, and chooses which lines show.</li>
+<li>The lane names above the map hide or show each lane, remembered for each client. An orange dot marks a lane with something to look at, such as a link still to confirm. Overview fits the whole map in view, and Print… prints the lanes showing on one page, or saves them as a PDF.</li>
+<li>The map now shows how a client’s files move through Toucan too, in two more lanes: Inputs (recordings, the shared mailbox and the Originals folder) and Toucan (transcribing, checking, the Tokenised folder, Claude, Cloudflare and the Notion agent, restoring and the Restored folder). Each step has a dot and a word: green when all is well, orange when someone needs to do something, such as files waiting in Check, red when it’s stuck, grey when it’s off. Click one to see its lines; open it for a button that takes you to put it right.</li>
+<li>Products. On a client’s Overview, choose which of Wealth Clarity, Wealth Map and Wealth Map Ongoing they have. They show in a third lane, Outputs, fed by the Tokenised and Restored folders. A shared client’s products are the team’s, so only an admin can change them.</li>
+<li>Five new relationship words: Owes, Lender to, Secured on, Custodian of and Records, each read the other way too (Owed by, Lent by, Security for, Has custodian, Recorded in).</li>
+<li>Structure and Activity now use the whole width of the window. Activity’s feed is a table with a search. Structure’s lists follow the map’s lanes: Trusts, Companies, Liabilities, Banks and Suppliers each have their own group, where Organisations was.</li>
+<li>Update Toucan on every Mac before anyone uses the new relationship words, or sets a shared client’s products: an older version doesn’t know them.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.21/Toucan-1.0.21.zip" length="27704521" type="application/octet-stream" sparkle:edSignature="eFSJxGqBV2DPPZ0LKaYFQqyz/RVsd9z7WMEZ/WblVhegHgDrvKNc+9bOPU/qKykSBKXr3TYL9N1SJalJo47lCA=="/>
+        </item>
+        <item>
             <title>1.0.20</title>
             <pubDate>Wed, 18 Nov 2026 14:51:16 +0000</pubDate>
             <sparkle:version>621</sparkle:version>
@@ -35,26 +57,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.19/Toucan-1.0.19.zip" length="26582225" type="application/octet-stream" sparkle:edSignature="qsLC4AnVGdS1eF/lEbn+h+SKINwQKsoU3XON7/7Pk/GbOUs6kCoKZc/ICXWRHHyL0hSHqO2fUgLG4DBR8y4eAQ=="/>
         </item>
-        <item>
-            <title>1.0.18</title>
-            <pubDate>Tue, 17 Nov 2026 22:55:58 +0000</pubDate>
-            <sparkle:version>619</sparkle:version>
-            <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.18</h2>
-<ul>
-<li>See where a name was found. In Seed, Check All and a file’s check, point at a value’s Found column to see the words around it, or click the magnifying glass beside it for every place it was found: the file, the sheet and cell, line, page or slide, the words around it with the name in bold, and Open to open the file. These are shown only in that window, never saved.</li>
-<li>Correct a value before adding it. If only part of a name was found, such as Asset Management for Smith Asset Management, click the value and type it in full before you choose Add.</li>
-<li>Seed opens straight away and lists names as it reads each file, with a Stop button. You can choose while it reads; Add is ready once it has finished.</li>
-<li>Checking again is much quicker. Scanned pdf files and images are read once while Toucan is unlocked, so Check Again only looks for names again. Locking Toucan forgets them.</li>
-<li>Seed and Scan All no longer make Toucan pause between files, and Add no longer waits while every file is counted again.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.18/Toucan-1.0.18.zip" length="26326792" type="application/octet-stream" sparkle:edSignature="2Do9G0/qzW6IazCGJFNVyfXil3bAq7XKd75an6+517oSteEmWbVlDOyIlUdeJK5JhczWYOB5A73J2Otoh0/SAw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: LH7jN9itlDcaNISVf57RT2KP+OZd+4uWDQsVzH8UV679tT9gGH+9KBmwOXy9M9lyHJSyOBCh2vSBoAqDKpgrCg==
-length: 5176
+edSignature: HS0HT0Is8XAOoLPfmHDtqK7fpYA6/MpeSlXKy0ilzXJqbds9m6hOK8IgrqVmtN+Pav3RLlKkbr6QayIXlzcPBw==
+length: 6882
 -->
