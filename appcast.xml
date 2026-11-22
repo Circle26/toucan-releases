@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.22</title>
+            <pubDate>Sun, 22 Nov 2026 23:41:59 +0000</pubDate>
+            <sparkle:version>623</sparkle:version>
+            <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.22</h2>
+<ul>
+<li>Web pages can now be tokenised: .html and .htm files, such as a page saved from a browser or a Word document saved as a web page. Switch html on in Settings › Global rules, under File formats; it starts off.</li>
+<li>Names are replaced in a page’s text, links, title and hidden details. Pictures stored inside the page become blank placeholders and come back when the file is restored. Pictures the page only links to are left as links.</li>
+<li>A page is blocked if it holds a file that isn’t a picture, or says it uses a character set Toucan can’t read reliably.</li>
+<li>Once html is switched on, an email with an html attachment is tokenised too, instead of being blocked.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.22/Toucan-1.0.22.zip" length="27769726" type="application/octet-stream" sparkle:edSignature="t2PecKNVCVnySlSjmTHCn6MsTfcOXHMYQ2lTA5POSlLjb3RUxWy0b28kDAXjoMznsD6mlmnYt7h9/x0jYiwdAA=="/>
+        </item>
+        <item>
             <title>1.0.21</title>
             <pubDate>Fri, 20 Nov 2026 14:43:15 +0000</pubDate>
             <sparkle:version>622</sparkle:version>
@@ -41,25 +57,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.20/Toucan-1.0.20.zip" length="26591293" type="application/octet-stream" sparkle:edSignature="glHoPSHCFto1T8/drtkZsiPSCUDnB6PBE7uqQVT9HMww9tqnwUNnBkb8xyVte2E7UJJiDqH+MqpWuJEn/BG2CQ=="/>
         </item>
-        <item>
-            <title>1.0.19</title>
-            <pubDate>Wed, 18 Nov 2026 09:27:05 +0000</pubDate>
-            <sparkle:version>620</sparkle:version>
-            <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.19</h2>
-<ul>
-<li>Explain… for emails. When the final check blocks an email, Explain… on its row in the client’s Originals list shows where each value was found (a header, the plain text or HTML, an attachment’s name), the words as written and the words around them. Select a row: if a change to your lists fixes it, a button makes the change, then choose Tokenise Again. If not, Copy Description copies where it is and how it’s written, never the words, to send to Rob Eades.</li>
-<li>Fewer emails blocked. A phone number Toucan already knows is now tokenised when it’s written as plain digits without its first 0, as Excel stores it. A file is also tokenised a second time when a number found partway through it appears earlier in another form, such as a Teams meeting’s conference ID.</li>
-<li>A name running straight into a longer Keep value, such as a person’s name before the firm’s name in a signature, is now tokenised. Keep only protects a value it covers in full.</li>
-<li>Clients whose Originals are in OneDrive are much quicker. Files OneDrive keeps online only are no longer downloaded just to update lists; the Originals list shows them as Online only, and Scan downloads and reads one.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.19/Toucan-1.0.19.zip" length="26582225" type="application/octet-stream" sparkle:edSignature="qsLC4AnVGdS1eF/lEbn+h+SKINwQKsoU3XON7/7Pk/GbOUs6kCoKZc/ICXWRHHyL0hSHqO2fUgLG4DBR8y4eAQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: HS0HT0Is8XAOoLPfmHDtqK7fpYA6/MpeSlXKy0ilzXJqbds9m6hOK8IgrqVmtN+Pav3RLlKkbr6QayIXlzcPBw==
-length: 6882
+edSignature: yZ9IjaL3vIsu2nfjSk616mKZmj8VtMIxediylVCG2uNYhtz+nmPfiMCR29+D6XnEwhz2OMHDWLqSbJF73CfSDQ==
+length: 6366
 -->
