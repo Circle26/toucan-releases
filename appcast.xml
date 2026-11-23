@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.25</title>
+            <pubDate>Mon, 23 Nov 2026 16:48:03 +0000</pubDate>
+            <sparkle:version>626</sparkle:version>
+            <sparkle:shortVersionString>1.0.25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.25</h2>
+<ul>
+<li>After updating, install the Claude extension again: in Settings › Extensions, choose Install… and accept in Claude Desktop, then start a new chat. Updating Toucan doesn’t update the copy Claude Desktop installed, and an older copy can leave files out of what Claude sees.</li>
+<li>Settings › Extensions now shows the version of the extension Claude Desktop last started. When it’s older than Toucan, the line turns orange, the button reads Install Again… and To Do says so.</li>
+<li>In Settings › Team › Members, each Mac shows its Toucan and Claude extension versions and when it last reported. Anything out of date is orange; point at it to see what to do. A Mac shows its versions once it has updated to this version.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.25/Toucan-1.0.25.zip" length="27955589" type="application/octet-stream" sparkle:edSignature="CJpDbqU/k2GLQxGwlexw0SgCbFkC+nsKgpxuCMH7/t/cllLE5WwyLFIx3u438l2s0K5lhckrgAUjZNKoxfNxDA=="/>
+        </item>
+        <item>
             <title>1.0.24</title>
             <pubDate>Mon, 23 Nov 2026 10:08:43 +0000</pubDate>
             <sparkle:version>625</sparkle:version>
@@ -35,25 +50,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.23/Toucan-1.0.23.zip" length="27831768" type="application/octet-stream" sparkle:edSignature="gBLdSRZGAV1jQF3BE9SDxZEH65VvMol+tCjsC8ELVbnhFErfKlhNnWE++xmqNBiQI84mBvBl0Yz7+d/PfhVKDA=="/>
         </item>
-        <item>
-            <title>1.0.22</title>
-            <pubDate>Sun, 22 Nov 2026 23:41:59 +0000</pubDate>
-            <sparkle:version>623</sparkle:version>
-            <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.22</h2>
-<ul>
-<li>Web pages can now be tokenised: .html and .htm files, such as a page saved from a browser or a Word document saved as a web page. Switch html on in Settings › Global rules, under File formats; it starts off.</li>
-<li>Names are replaced in a page’s text, links, title and hidden details. Pictures stored inside the page become blank placeholders and come back when the file is restored. Pictures the page only links to are left as links.</li>
-<li>A page is blocked if it holds a file that isn’t a picture, or says it uses a character set Toucan can’t read reliably.</li>
-<li>Once html is switched on, an email with an html attachment is tokenised too, instead of being blocked.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.22/Toucan-1.0.22.zip" length="27769726" type="application/octet-stream" sparkle:edSignature="t2PecKNVCVnySlSjmTHCn6MsTfcOXHMYQ2lTA5POSlLjb3RUxWy0b28kDAXjoMznsD6mlmnYt7h9/x0jYiwdAA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: wUE2RYA+p208zkSWaR7hD0xmBfwUSDW5ihfDi/NKTiyqnGTU4E9Sd8nR3PpwLRJHw5xyDOI/vDHSTxFQgpwyBw==
-length: 4671
+edSignature: D+bY40SNTBPJbabPFXUbXELqeAnpT5Zz1itUpBJBbk15myuA4S3ra5JIa8PwuMpKAV0syQap7Eb8SomttQJeAw==
+length: 4723
 -->
