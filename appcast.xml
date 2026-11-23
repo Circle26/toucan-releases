@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.23</title>
+            <pubDate>Mon, 23 Nov 2026 01:38:35 +0000</pubDate>
+            <sparkle:version>624</sparkle:version>
+            <sparkle:shortVersionString>1.0.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.23</h2>
+<ul>
+<li>When checking a file or a transcript, Add as now has Alias of…. It opens a list you can search of the names in Replace and the names going to Replace in the same check. Use it for another way of writing a name, such as Mrs Example or a nickname: it gets that name’s token and restores as that name.</li>
+<li>The Entity Map now has one lane for each category: Assets, Places, Accounts and Other each have their own lane, where Assets used to hold them all. Your firm’s own categories go in Other.</li>
+<li>Structure’s tables follow the lanes, with the same names and in the same order. Email addresses, phone numbers, IBANs and NI numbers are in a table called Contact details at the end.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.23/Toucan-1.0.23.zip" length="27831768" type="application/octet-stream" sparkle:edSignature="gBLdSRZGAV1jQF3BE9SDxZEH65VvMol+tCjsC8ELVbnhFErfKlhNnWE++xmqNBiQI84mBvBl0Yz7+d/PfhVKDA=="/>
+        </item>
+        <item>
             <title>1.0.22</title>
             <pubDate>Sun, 22 Nov 2026 23:41:59 +0000</pubDate>
             <sparkle:version>623</sparkle:version>
@@ -43,23 +58,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.21/Toucan-1.0.21.zip" length="27704521" type="application/octet-stream" sparkle:edSignature="eFSJxGqBV2DPPZ0LKaYFQqyz/RVsd9z7WMEZ/WblVhegHgDrvKNc+9bOPU/qKykSBKXr3TYL9N1SJalJo47lCA=="/>
         </item>
-        <item>
-            <title>1.0.20</title>
-            <pubDate>Wed, 18 Nov 2026 14:51:16 +0000</pubDate>
-            <sparkle:version>621</sparkle:version>
-            <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.20</h2>
-<ul>
-<li>Fewer emails blocked. Emails with pictures in the signature, such as a logo, were sometimes blocked by the final check because Toucan mistook part of a picture’s hidden name for a National Insurance number. Picture names are now left as they are.</li>
-<li>Explain… now also shows values the final check found only in an email’s source, so its list is never empty for a blocked email.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.20/Toucan-1.0.20.zip" length="26591293" type="application/octet-stream" sparkle:edSignature="glHoPSHCFto1T8/drtkZsiPSCUDnB6PBE7uqQVT9HMww9tqnwUNnBkb8xyVte2E7UJJiDqH+MqpWuJEn/BG2CQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: yZ9IjaL3vIsu2nfjSk616mKZmj8VtMIxediylVCG2uNYhtz+nmPfiMCR29+D6XnEwhz2OMHDWLqSbJF73CfSDQ==
-length: 6366
+edSignature: R4srwCkxQH51FenyQgS3EGKhIrbHYc37psGrrYXGzsAsrg9ZUabje3BIpF31FuStJoztCnYlym0Lg7aXRQlJAQ==
+length: 6672
 -->
