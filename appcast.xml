@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.24</title>
+            <pubDate>Mon, 23 Nov 2026 10:08:43 +0000</pubDate>
+            <sparkle:version>625</sparkle:version>
+            <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.24</h2>
+<ul>
+<li>More positions are built in for people in Structure: Next generation, Chief executive, Chief investment officer, Chief financial officer, Chief operating officer, Head of family office, Financial controller, General counsel, Executive assistant, Personal assistant and Adviser. Short forms such as CEO, CFO and PA are read as the full title.</li>
+<li>Every Mac needs to update to this version before anyone gives one of the new positions to someone in a team client.</li>
+<li>In Settings › Extensions, a new Claude reads row shows the folder Claude Desktop reads: the active client’s Tokenised folder. Claude’s folder is now called the extension’s folder, as it only holds a small hidden file that points Claude to that folder.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.24/Toucan-1.0.24.zip" length="27849298" type="application/octet-stream" sparkle:edSignature="K4KepEgt9LnkZczb0rdsPNpi6NIZWXz0CDA5Y1gmtaM7SOS0UjmXDVhr4W7xozWXXu83IRJpcw3wOGnk0ZiMCA=="/>
+        </item>
+        <item>
             <title>1.0.23</title>
             <pubDate>Mon, 23 Nov 2026 01:38:35 +0000</pubDate>
             <sparkle:version>624</sparkle:version>
@@ -36,31 +51,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.22/Toucan-1.0.22.zip" length="27769726" type="application/octet-stream" sparkle:edSignature="t2PecKNVCVnySlSjmTHCn6MsTfcOXHMYQ2lTA5POSlLjb3RUxWy0b28kDAXjoMznsD6mlmnYt7h9/x0jYiwdAA=="/>
         </item>
-        <item>
-            <title>1.0.21</title>
-            <pubDate>Fri, 20 Nov 2026 14:43:15 +0000</pubDate>
-            <sparkle:version>622</sparkle:version>
-            <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.21</h2>
-<ul>
-<li>A new Entity Map. On a client’s Structure page the map now shows their names in lanes from left to right: Family, People, Trusts and Companies, then Assets, Liabilities, Banks and Suppliers when the client has any, each lane always in the same order. Scroll sideways for more lanes, or widen the window. Zoom has gone.</li>
-<li>Click a name to see what it’s linked to: its lines are drawn and everything else fades. A blue marker at the side counts linked names out of view; click it to scroll there.</li>
-<li>Open a name with the arrow on its right to see and change it in place: its links (the word, a percentage, confirmed or still to confirm, change to another name, swap direction or delete), its category, aliases, position and note. Every change is saved at once, and Undo at the bottom of the page takes it back.</li>
-<li>Add on the map. + Add link in an open name links it to another as you type. The toolbar under the map adds a new name by kind, links two names, and chooses which lines show.</li>
-<li>The lane names above the map hide or show each lane, remembered for each client. An orange dot marks a lane with something to look at, such as a link still to confirm. Overview fits the whole map in view, and Print… prints the lanes showing on one page, or saves them as a PDF.</li>
-<li>The map now shows how a client’s files move through Toucan too, in two more lanes: Inputs (recordings, the shared mailbox and the Originals folder) and Toucan (transcribing, checking, the Tokenised folder, Claude, Cloudflare and the Notion agent, restoring and the Restored folder). Each step has a dot and a word: green when all is well, orange when someone needs to do something, such as files waiting in Check, red when it’s stuck, grey when it’s off. Click one to see its lines; open it for a button that takes you to put it right.</li>
-<li>Products. On a client’s Overview, choose which of Wealth Clarity, Wealth Map and Wealth Map Ongoing they have. They show in a third lane, Outputs, fed by the Tokenised and Restored folders. A shared client’s products are the team’s, so only an admin can change them.</li>
-<li>Five new relationship words: Owes, Lender to, Secured on, Custodian of and Records, each read the other way too (Owed by, Lent by, Security for, Has custodian, Recorded in).</li>
-<li>Structure and Activity now use the whole width of the window. Activity’s feed is a table with a search. Structure’s lists follow the map’s lanes: Trusts, Companies, Liabilities, Banks and Suppliers each have their own group, where Organisations was.</li>
-<li>Update Toucan on every Mac before anyone uses the new relationship words, or sets a shared client’s products: an older version doesn’t know them.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.21/Toucan-1.0.21.zip" length="27704521" type="application/octet-stream" sparkle:edSignature="eFSJxGqBV2DPPZ0LKaYFQqyz/RVsd9z7WMEZ/WblVhegHgDrvKNc+9bOPU/qKykSBKXr3TYL9N1SJalJo47lCA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: R4srwCkxQH51FenyQgS3EGKhIrbHYc37psGrrYXGzsAsrg9ZUabje3BIpF31FuStJoztCnYlym0Lg7aXRQlJAQ==
-length: 6672
+edSignature: wUE2RYA+p208zkSWaR7hD0xmBfwUSDW5ihfDi/NKTiyqnGTU4E9Sd8nR3PpwLRJHw5xyDOI/vDHSTxFQgpwyBw==
+length: 4671
 -->
