@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.26</title>
+            <pubDate>Tue, 24 Nov 2026 12:15:25 +0000</pubDate>
+            <sparkle:version>627</sparkle:version>
+            <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.26</h2>
+<ul>
+<li>Toucan is quicker. Saving changes, such as adding to Global Keep or Edit as List…, no longer pauses the app for a second or two, and the map on Structure scrolls more smoothly.</li>
+<li>In a team, Toucan now catches up with the team’s latest changes when it opens and when your Mac wakes, before it tokenises anything. While it does, the menu bar icon shows turning arrows, and the menu, the Drop bar and Settings › Team say so. Without an internet connection it carries on with what it last had.</li>
+<li>In Settings › Team › Members, each Mac shows when it last caught up with the team, and admins get a To Do row when a Mac is behind. A Mac shows this once it has updated to this version.</li>
+<li>A team sync that stops partway no longer loses the files it had already downloaded.</li>
+<li>An email blocked for its text encoding now says which part or header, the encoding it claims and what would read it, never the text itself.</li>
+<li>Emails whose text says it is UTF-8 but isn’t quite (common with some email programs) are now tokenised instead of blocked. The Tokenised copy is written as proper UTF-8.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.26/Toucan-1.0.26.zip" length="28184630" type="application/octet-stream" sparkle:edSignature="UpHDtO+n4eaSwlYTJF4VCW3GcpF1WpniFciJE4CdWLyLOjOHSF0pjSb1g4w2FUk14zgC56G0WozhqJONraf1BQ=="/>
+        </item>
+        <item>
             <title>1.0.25</title>
             <pubDate>Mon, 23 Nov 2026 16:48:03 +0000</pubDate>
             <sparkle:version>626</sparkle:version>
@@ -35,24 +53,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.24/Toucan-1.0.24.zip" length="27849298" type="application/octet-stream" sparkle:edSignature="K4KepEgt9LnkZczb0rdsPNpi6NIZWXz0CDA5Y1gmtaM7SOS0UjmXDVhr4W7xozWXXu83IRJpcw3wOGnk0ZiMCA=="/>
         </item>
-        <item>
-            <title>1.0.23</title>
-            <pubDate>Mon, 23 Nov 2026 01:38:35 +0000</pubDate>
-            <sparkle:version>624</sparkle:version>
-            <sparkle:shortVersionString>1.0.23</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.23</h2>
-<ul>
-<li>When checking a file or a transcript, Add as now has Alias of…. It opens a list you can search of the names in Replace and the names going to Replace in the same check. Use it for another way of writing a name, such as Mrs Example or a nickname: it gets that name’s token and restores as that name.</li>
-<li>The Entity Map now has one lane for each category: Assets, Places, Accounts and Other each have their own lane, where Assets used to hold them all. Your firm’s own categories go in Other.</li>
-<li>Structure’s tables follow the lanes, with the same names and in the same order. Email addresses, phone numbers, IBANs and NI numbers are in a table called Contact details at the end.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.23/Toucan-1.0.23.zip" length="27831768" type="application/octet-stream" sparkle:edSignature="gBLdSRZGAV1jQF3BE9SDxZEH65VvMol+tCjsC8ELVbnhFErfKlhNnWE++xmqNBiQI84mBvBl0Yz7+d/PfhVKDA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: D+bY40SNTBPJbabPFXUbXELqeAnpT5Zz1itUpBJBbk15myuA4S3ra5JIa8PwuMpKAV0syQap7Eb8SomttQJeAw==
-length: 4723
+edSignature: XqjOJYHixv3GrxEz3qvsVsUMv4w7QK6zeKlzHq8cPqaJkjs7WbOb418rjCZjLrbK/gfZiqJtmVEKVsKEe6STCg==
+length: 5152
 -->
