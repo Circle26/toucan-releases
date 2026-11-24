@@ -6,6 +6,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.27</title>
+            <pubDate>Tue, 24 Nov 2026 14:41:25 +0000</pubDate>
+            <sparkle:version>628</sparkle:version>
+            <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.27</h2>
+<ul>
+<li>The menu bar menu is now a panel, laid out like the battery menu: each row’s detail sits in grey at the right, and Active Project and To Do open in place. The team line and To Do show only when there’s something to say. Active Project holds the clients and the active client’s folders and Recordings. Restore File… is on each Tokenised row, and Toucan locks from the padlock on the Drop bar or the window.</li>
+<li>A recording a colleague makes for a shared client now shows in that client’s Recordings as soon as OneDrive brings it to your Mac, without reopening the page.</li>
+<li>A transcript waiting to be checked is now on every Mac’s To Do, not only the Mac that recorded it, without a count of flags on the others. Whoever checks and tokenises it first takes it off To Do on every Mac. Every Mac needs this version for that.</li>
+<li>A transcript changed after it was tokenised, by hand or by Re-apply Corrections, is to be checked again.</li>
+<li>While a transcript waits to be checked, its panel tints orange each word the check will ask about. Point at one to see why, and press ⌥Tab to move to the next.</li>
+<li>Adding a transcript correction to a long transcript no longer freezes Toucan, and the check itself is much quicker.</li>
+<li>Tokenised transcripts now stay on a client’s Originals list with the Tokenised pill, as other files do.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.27/Toucan-1.0.27.zip" length="28334137" type="application/octet-stream" sparkle:edSignature="MPY6aXwKGzcISzgdOnVFk5BFoF6M1wFmmudQ05zwME5KD/G7y0yQN2D4aQZfEmp0oAopwci2+IIpz9p9BKyqDg=="/>
+        </item>
+        <item>
             <title>1.0.26</title>
             <pubDate>Tue, 24 Nov 2026 12:15:25 +0000</pubDate>
             <sparkle:version>627</sparkle:version>
@@ -38,24 +57,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.25/Toucan-1.0.25.zip" length="27955589" type="application/octet-stream" sparkle:edSignature="CJpDbqU/k2GLQxGwlexw0SgCbFkC+nsKgpxuCMH7/t/cllLE5WwyLFIx3u438l2s0K5lhckrgAUjZNKoxfNxDA=="/>
         </item>
-        <item>
-            <title>1.0.24</title>
-            <pubDate>Mon, 23 Nov 2026 10:08:43 +0000</pubDate>
-            <sparkle:version>625</sparkle:version>
-            <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.24</h2>
-<ul>
-<li>More positions are built in for people in Structure: Next generation, Chief executive, Chief investment officer, Chief financial officer, Chief operating officer, Head of family office, Financial controller, General counsel, Executive assistant, Personal assistant and Adviser. Short forms such as CEO, CFO and PA are read as the full title.</li>
-<li>Every Mac needs to update to this version before anyone gives one of the new positions to someone in a team client.</li>
-<li>In Settings › Extensions, a new Claude reads row shows the folder Claude Desktop reads: the active client’s Tokenised folder. Claude’s folder is now called the extension’s folder, as it only holds a small hidden file that points Claude to that folder.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.24/Toucan-1.0.24.zip" length="27849298" type="application/octet-stream" sparkle:edSignature="K4KepEgt9LnkZczb0rdsPNpi6NIZWXz0CDA5Y1gmtaM7SOS0UjmXDVhr4W7xozWXXu83IRJpcw3wOGnk0ZiMCA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: XqjOJYHixv3GrxEz3qvsVsUMv4w7QK6zeKlzHq8cPqaJkjs7WbOb418rjCZjLrbK/gfZiqJtmVEKVsKEe6STCg==
-length: 5152
+edSignature: X5LuaH975yL63hMQnyh6OpjliqcXw9frBwI8hAHMsjCs5k9szzJIfv1f9kY1AWGUlR4Aqkito7N8C+H4uDaADA==
+length: 5785
 -->
