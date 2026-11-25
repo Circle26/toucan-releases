@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.28</title>
+            <pubDate>Wed, 25 Nov 2026 14:15:22 +0000</pubDate>
+            <sparkle:version>629</sparkle:version>
+            <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.28</h2>
+<ul>
+<li>Emails from a client’s shared mailbox are now saved in folders named as in Outlook, such as Email/Inbox, Email/Inbox/Tax and Email/Sent Items, so Claude can see where each one came from. A name Toucan already knows in a folder’s name, such as a client’s name or an email address, is replaced by its token. Emails fetched before stay where they are.</li>
+<li>In a mailbox’s settings, Every folder now means the whole mailbox, Sent Items and Archive included, and Choose… lists all of its folders. Deleted Items, Junk Email, Drafts and Outbox are never read. A client already on Every folder fetches its other folders back to its start date the first time it checks, in batches of 50. Every Mac that fetches a shared client’s mailbox needs this version.</li>
+<li>Claude Desktop can now list just one folder of a client’s files, or only the files since a given day, so asking about “today’s emails” or “the Tax folder” is quicker for a client with many files. If Claude doesn’t seem to use it, choose Install Again… on Settings › Extensions.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.28/Toucan-1.0.28.zip" length="28452577" type="application/octet-stream" sparkle:edSignature="J+4Dh3gzmM5Mxof2URCDVhYeBS6uHnBvy0wRX96H7DPIBku5uG2y1Y8ml6wxH29se7YQlwIxeEfTWrhGzGo3DA=="/>
+        </item>
+        <item>
             <title>1.0.27</title>
             <pubDate>Tue, 24 Nov 2026 14:41:25 +0000</pubDate>
             <sparkle:version>628</sparkle:version>
@@ -42,24 +57,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.26/Toucan-1.0.26.zip" length="28184630" type="application/octet-stream" sparkle:edSignature="UpHDtO+n4eaSwlYTJF4VCW3GcpF1WpniFciJE4CdWLyLOjOHSF0pjSb1g4w2FUk14zgC56G0WozhqJONraf1BQ=="/>
         </item>
-        <item>
-            <title>1.0.25</title>
-            <pubDate>Mon, 23 Nov 2026 16:48:03 +0000</pubDate>
-            <sparkle:version>626</sparkle:version>
-            <sparkle:shortVersionString>1.0.25</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.25</h2>
-<ul>
-<li>After updating, install the Claude extension again: in Settings › Extensions, choose Install… and accept in Claude Desktop, then start a new chat. Updating Toucan doesn’t update the copy Claude Desktop installed, and an older copy can leave files out of what Claude sees.</li>
-<li>Settings › Extensions now shows the version of the extension Claude Desktop last started. When it’s older than Toucan, the line turns orange, the button reads Install Again… and To Do says so.</li>
-<li>In Settings › Team › Members, each Mac shows its Toucan and Claude extension versions and when it last reported. Anything out of date is orange; point at it to see what to do. A Mac shows its versions once it has updated to this version.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.25/Toucan-1.0.25.zip" length="27955589" type="application/octet-stream" sparkle:edSignature="CJpDbqU/k2GLQxGwlexw0SgCbFkC+nsKgpxuCMH7/t/cllLE5WwyLFIx3u438l2s0K5lhckrgAUjZNKoxfNxDA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: X5LuaH975yL63hMQnyh6OpjliqcXw9frBwI8hAHMsjCs5k9szzJIfv1f9kY1AWGUlR4Aqkito7N8C+H4uDaADA==
-length: 5785
+edSignature: dw0Em5UtrsNX4zJJw//IRGxuIvF61smfYJvS5KDpFZUAwXSFKpUN5BnQJFKx69PZ48HpQxXasoatPmB1QeVqBQ==
+length: 6117
 -->
