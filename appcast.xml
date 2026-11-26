@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Toucan</title>
         <item>
+            <title>1.0.30</title>
+            <pubDate>Thu, 26 Nov 2026 14:56:32 +0000</pubDate>
+            <sparkle:version>631</sparkle:version>
+            <sparkle:shortVersionString>1.0.30</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Toucan 1.0.30</h2>
+<ul>
+<li>Names in an email’s From, To and Cc lines are now checked. A name Toucan doesn’t know, such as “Example, Jane” or “Jane” on its own, holds the email for checking, so it can be added as an alias or a new person before the email is tokenised. The same goes for those lines quoted in a reply or a forwarded email.</li>
+<li>Emails tokenised before this version may still have such names in their To and Cc lines. Each client with any has a row on To Do saying how many; use Tokenise All Again… on Originals, then delete the older copies in Tokenised, and choose Done.</li>
+<li>Suggest Aliases now offers the forms used in email addresses, such as jane.example, j.example and janeexample, and “Example Jane” as well as “Example, Jane”. It no longer suggests a surname on its own, which would match everyone in the family.</li>
+<li>On the map in Structure, a + beside each lane’s ⋯ and + New item at its foot add a new item to that lane. Opening an item with its arrow now selects it.</li>
+<li>The lane names above the map show how many items each lane holds, and no longer squash together when Show All appears.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.30/Toucan-1.0.30.zip" length="28568272" type="application/octet-stream" sparkle:edSignature="6Nb2Oq1Eib8dk14zQzEC8W+Zby93F+4hds82qvd4EnHOtOkhD5a7lHpHspSKiNssvyyqalBYIkdd0jQwRUu6AA=="/>
+        </item>
+        <item>
             <title>1.0.29</title>
             <pubDate>Wed, 25 Nov 2026 17:25:24 +0000</pubDate>
             <sparkle:version>630</sparkle:version>
@@ -35,28 +52,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.28/Toucan-1.0.28.zip" length="28452577" type="application/octet-stream" sparkle:edSignature="J+4Dh3gzmM5Mxof2URCDVhYeBS6uHnBvy0wRX96H7DPIBku5uG2y1Y8ml6wxH29se7YQlwIxeEfTWrhGzGo3DA=="/>
         </item>
-        <item>
-            <title>1.0.27</title>
-            <pubDate>Tue, 24 Nov 2026 14:41:25 +0000</pubDate>
-            <sparkle:version>628</sparkle:version>
-            <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Toucan 1.0.27</h2>
-<ul>
-<li>The menu bar menu is now a panel, laid out like the battery menu: each row’s detail sits in grey at the right, and Active Project and To Do open in place. The team line and To Do show only when there’s something to say. Active Project holds the clients and the active client’s folders and Recordings. Restore File… is on each Tokenised row, and Toucan locks from the padlock on the Drop bar or the window.</li>
-<li>A recording a colleague makes for a shared client now shows in that client’s Recordings as soon as OneDrive brings it to your Mac, without reopening the page.</li>
-<li>A transcript waiting to be checked is now on every Mac’s To Do, not only the Mac that recorded it, without a count of flags on the others. Whoever checks and tokenises it first takes it off To Do on every Mac. Every Mac needs this version for that.</li>
-<li>A transcript changed after it was tokenised, by hand or by Re-apply Corrections, is to be checked again.</li>
-<li>While a transcript waits to be checked, its panel tints orange each word the check will ask about. Point at one to see why, and press ⌥Tab to move to the next.</li>
-<li>Adding a transcript correction to a long transcript no longer freezes Toucan, and the check itself is much quicker.</li>
-<li>Tokenised transcripts now stay on a client’s Originals list with the Tokenised pill, as other files do.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Circle26/toucan-releases/releases/download/v1.0.27/Toucan-1.0.27.zip" length="28334137" type="application/octet-stream" sparkle:edSignature="MPY6aXwKGzcISzgdOnVFk5BFoF6M1wFmmudQ05zwME5KD/G7y0yQN2D4aQZfEmp0oAopwci2+IIpz9p9BKyqDg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 3V518m4+VaLBWbD39ruQsoHODe5khH2VoFM1pLzQg0pSuyDS2i4lh3vkqG4hCOfD9OB40qaRG/qGrLhhp94oAA==
-length: 5572
+edSignature: eVM0dShFVDruPJsoWizdE0DMVuB2p4OgWSvqhE5VhJm8Qk56HurhzVLJ0COBNMHs838yjrnKTlBQFL/2CnOgCA==
+length: 5336
 -->
